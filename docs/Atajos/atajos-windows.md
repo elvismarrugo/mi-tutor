@@ -4,4 +4,6 @@ sidebar_position: 0
 
 # Atajos en Windows
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+## Para usar la herramienta Recortes con el teclado:
+
+Presiona **tecla del logotipo de Windows + Mayús + S**. El escritorio se oscurecerá mientras seleccionas un área para la captura de pantalla.
