@@ -1,6 +1,6 @@
 {
-  "label": "GIT",
-  "position": 9,
+  "label": "Configuraciones",
+  "position": 5,
   "link": {
     "type": "generated-index",
     "description": "Recopilacion de atajos importantes"
