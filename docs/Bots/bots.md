@@ -2,8 +2,10 @@
 sidebar_position: 0
 ---
 
-# Atajos en Windows
+# Crear BOTS
 
-## Para usar la herramienta Recortes con el teclado:
+### Bot para integrar ChatGPT en telegram:
+- [ChatGPT-Telegram](https://youtu.be/SdPFD4EyLD0/) 
 
-Presiona **tecla del logotipo de Windows + Mayús + S**. El escritorio se oscurecerá mientras seleccionas un área para la captura de pantalla.
+### Bot para integrar ChatGPT en WhatSapp:
+- [ChatGPT-WhatSapp](https://www.youtube.com/watch?v=Y49RkOGX7Dc/) 
