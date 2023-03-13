@@ -21,6 +21,7 @@ Tailwind CSS es un Framework de CSS que principalmente brinda clases útiles par
 
 |      Espaciado      | Padding | Margin  |
 | ------------------- | ------- | ------- |
+| izq-der-arr-aba     | p-      | m-      |
 | Izquierda           | pl      | ml      |
 | Derecha             | pr      | mr      |
 | Arriba              | pt      | mt      |
@@ -73,6 +74,7 @@ Tailwind CSS es un Framework de CSS que principalmente brinda clases útiles par
 |justify-start   | inicio       |*--------|    
 |justify-end     | final        |--------*|    
 |justify-between | centrado     |----*----|
+|justify-around  | centrado     |--*---*--|
 
 
 ## Justificar contenido vertical
