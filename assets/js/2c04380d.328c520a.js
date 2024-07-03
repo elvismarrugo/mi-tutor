@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[3816],{6908:e=>{e.exports=JSON.parse('{"title":"Excel","description":"Recopilacion de trucos importantes de Excel","slug":"/category/excel","permalink":"/docs/category/excel","navigation":{"next":{"title":"Formulas en Excel","permalink":"/docs/Excel/formulas"}}}')}}]);
