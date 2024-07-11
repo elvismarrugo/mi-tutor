@@ -49,3 +49,17 @@ sidebar_position: 0
                 (BD[Nombre Linea]="FIT" || BD[Nombre Linea]="HELADOS")
                 )
         ```
+        
+6. Operador  **IN**. Filtra los datos de una sola tabla, para varios criterios de una misma columna.
+
+        #### **FILTER**
+        ```jsx
+       Operadores IN = FILTER(Calendario,Calendario[Nombre Dia] IN {"lunes", "martes","miércoles","jueves","viernes"})
+        ```
+
+7. Funcion  **IF** función lógica que evalúa una condición y devuelve un valor si la condición es verdadera y otro valor si la condición es falsa.
+
+        #### **FILTER**
+        ```jsx
+     Semestre = IF(Calendario[Mes Num]<=6, "Sem1", "Sem2")
+        ```        
