@@ -155,6 +155,6 @@ sidebar_position: 0
 
 #### **16. Loops **
     ```jsx
-      1. se coloca el mixing al 25% con el CUE activado para escuchar por los audifonos
+      1. Quantize
      
     ```
