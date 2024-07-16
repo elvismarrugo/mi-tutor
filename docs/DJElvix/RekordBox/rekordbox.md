@@ -7,6 +7,18 @@ sidebar_position: 0
 ![alt text](image.png)
 ![alt text](image-1.png)
 
+| Fila | Columna | Color     | Hexadecimal |
+|------|---------|-----------|-------------|
+| 1    | 1       | Azul      | #4682B4     |
+| 1    | 2       | Verde     | #32CD32     |
+| 1    | 3       | Morado    | #9370DB     |
+| 1    | 4       | Azul Claro| #87CEFA     |
+| 2    | 1       | Azul Claro| #87CEFA     |
+| 2    | 2       | Morado    | #9370DB     |
+| 2    | 3       | Verde     | #32CD32     |
+| 2    | 4       | Azul      | #4682B4     |
+
+
 ## 1. Decks
 
   #### **1. Decks**
@@ -108,4 +120,41 @@ sidebar_position: 0
       3. no hacer nada, cuanda ambas estan por acabar
       4. con efectos, ejemplo filterm, izq(grave), der(agudo)
       5. bajar volumen y equalizadores
+    ```
+#### **13. Auriculares **
+    ```jsx
+      1. Conectar salida phones, cualquiera gama media
+      2. Si el mixing esta en CUE y este esta activado sonara el canal
+      3. Si el mixing esta en MASTER escucharemos lo mismo del publico
+      4. Si esta en la mitad se escucharan ambos      
+    ```
+#### **14. Cuadrar a mano **
+    ```jsx
+      1. El pitch hacia abajo aumenta los bpm
+      2. El pitch hacia arriba disminuye los bpm
+      3. Se aconseja el 6% para manejar los rangos
+      4. El jog wheel derecha:avanza - izquierda:retrocede
+      5. se suelta la cancion1: izquierda y en cambio de frase se lanza la 2da
+      6. con el jog, se ajusta atrasando o avanzando, si esta adelantada se le quita velocidad
+      7. con el pitch, se ajusta arriba o abajo, si esta atrasada se le da velocidad
+      8. primero con el jog y luego con el pitch
+    ```
+#### **15. Cuadrar a mano2 **
+    ```jsx
+      1. se coloca el mixing al 25% con el CUE activado para escuchar por los audifonos
+      2. Primero se cuadra la cancion con los altavoces y luego se lanza
+      3. Tecnica del 0.8% = 1 Bpm para canciones de 123-135 bpm
+      4. Tempo Ring al 10%      
+    ```
+    | bpm | % | bpm     | % |
+    |------|---------|-----------|-------------|
+    | 1    | 0.8%       | 5 bpm      | 4.0%    |
+    | 2    | 1.6%       | 6 bpm      | 4.8%    |
+    | 3    | 2.4%       | 7 bpm      | 5.6%    |
+    | 4    | 3.2%       | 8 bpm      | 6.4%    |
+
+#### **16. Loops **
+    ```jsx
+      1. se coloca el mixing al 25% con el CUE activado para escuchar por los audifonos
+     
     ```
