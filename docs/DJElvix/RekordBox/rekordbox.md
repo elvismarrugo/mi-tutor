@@ -154,7 +154,12 @@ sidebar_position: 0
     | 4    | 3.2%       | 8 bpm      | 6.4%    |
 
 #### **16. Loops **
+  ** Quantize: respeta el patron para que cada cosa caiga en su sitio **
     ```jsx
-      1. Quantize
+      1. Trozo de cancion que queremos que se repita de acuerdo a un tiempo 
+         1. click en RELOOP, escogemos duracion 4,8, y click arriba para activar y es dinamico, se desactiva dandole click al numero y la cancion sigue por donde iba.
+         2. Al darle click a IN, seleccionamos inicio del bucle y OUT el final y se activa, si damos click en EXIT, la cancion continua, pero memoriza el LOOP y accedemos pulsando RELOOP
+         3. Mientras está sonando damos a IN, muestra el principio del LOOP con linea de tiempo parada y si pulsamos OUT, nos muestra el final
+      2. IN inicio y OUT final, los botones <<(-) >>(+) controlan la duracion, EXIT sale del bucle
      
     ```
