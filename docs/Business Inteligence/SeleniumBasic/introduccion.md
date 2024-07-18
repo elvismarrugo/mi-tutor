@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Trucos en Google Forms
+# Trucos en Excel
 
 `````jsx
 private sub Worksheet_Deactivate()

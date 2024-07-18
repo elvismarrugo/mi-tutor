@@ -163,3 +163,60 @@ sidebar_position: 0
       2. IN inicio y OUT final, los botones <<(-) >>(+) controlan la duracion, EXIT sale del bucle
      
     ```
+#### **17. Trim ** 
+    ```jsx
+      1. Ganancia  ** Debe iniciar en 50%(mitad) **
+         1. Mixing mitad para escuchar los auriculares
+         2. Preferencias - Mixer - Auto Gain: Activar       
+      2. Sonorizacion
+         1. Level evitar luces rojas
+         2. Si faltan graves, se deben bajar agudos y medios, todos deben estar en posicion central, no subirlos sino bajarlos
+     
+    ```
+#### **18. Efectos ** 
+    ```jsx
+      1. FX SELECT: elige el efecto
+      2. LEVEL/DEPTH(Ruleta): ajusta cantidad de efecto sobre la cancion
+      3. ON/OFF: activa y desactiva el efecto
+      4. <BEAT> : Cambia la forma del efecto
+      5. Elegir canal: 1, 2 o master
+      6. ECHO Y REVERB(*****)
+      7. Se puede usar para un subidon
+      8. MT DELAY(LEVEL en la mitad) y <BEAT:1>
+      9. FLANGER
+      10. FILTER(a la derecha pausa los graves)
+    ```
+#### **19. Repaso ** 
+    ```jsx
+      https://www.udemy.com/course/rekordbox/learn/lecture/13424886#overview
+
+      https://rekordbox.com/es/
+    ```
+#### **20. Preparacion temas ** 
+    ```jsx
+      1. Canciones preparardas en las carpetas
+      2. Uso de los CUE, para saber los puntos para mezclar
+      3. Se marca cada HOT CUE
+      4. Track List
+         1. Click derecho crear lista de reproduccion
+         2. Arrastramos temas de explorer a la lista
+         3. Lo ideal es dejar dos HOT CUE
+            1. Punto donde se mezclara la cancion anterior
+            2. Punto donde se mezclara la cancion siguiente
+    ```
+#### **21. Mezcla armonica Activar Master Tempo MT** 
+      ```jsx
+        1. Rueda de camelot, tiene 24 tonalidads
+          12 parte exterior
+          12 parte interior
+        2. En rekordbox: Preferencias - analisis
+           1. Activar tonalidad
+           2. Ej: Am(La Menor)=> Dm(Re Menor), Em(Mi Menor) y C
+           3. Segun Rekordbox, se C puede mezclar con G, con F y con Am
+              1. para pasar de temas, de Gm, pasa a Dm y luego a Am
+              2. Saltos de 5 de E puede mezclar con F y con Eb o Dbm con Dm y Cm
+              3. G,C,F,Am,B,Db
+              4. Ordenar por Tonalidad
+        
+
+      ```      

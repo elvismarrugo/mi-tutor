@@ -100,4 +100,52 @@ sidebar_position: 0
     voz de robot en vocal 
   ```
 
+  # Movimiento en canciones, 
+  #### 1. Lateral del JOG: Lento
+  #### 2. Arriba del JOG: Medio
+  #### 3. Shift + Arriba del JOG: Rapido
+
+  # Navegador de canciones, 
+    Izquierda o derecha: Sube o Baja canciones
+    Click accedemos a la carpeta
+    Otro click volvemos atras
+    Load carga la cancion 
+    Shift+Load Canciones a pantalla completa
+
+  # PADS, 
+    Botones arriba
+  **HOT CUE**: punto de la cancion marca un CUE, cuando se pulsa otra vez
+    vuelve a la cancion.
+  **SHIFT+CUE**: Borra
+  **BEAT LOOP**: Sieve para hacer loops, activa y desactiva
+  **BEAT JUMP**: Saltos en la cancion en tiempo real
+  #### 1. Fine, 1/8, 1/4, 1/2
+  #### 2. 1, 2, 4, 8
+  #### 3. 16, 34, 64, 128
+  **SHIFT+BEAT JUMP**:Mueve izquierda derecha con botones 7 y 8
+    Botones abajo: SHIFT
+    **SHIFT+HOT CUE**:Keyboard
+    **SHIFT+PAD FX1**:
+    **SHIFT+PAD FX1**:
+    **SHIFT+KEY SHIFT**:
+
+ # Sampler, 
+  Fragmentgos de canciones
+  Se deben activar arriba en SAMPLER
+  Al usar activar QUANTIZE(Q) y BPM SYNC
+  Modos
+  #### 1. ==> se reproduce una vez de inicio a fin
+  #### 2. Bucle se reproduce en bucle
+  #### 3. |==> Se reproduce solo al pulsar el boton
+  #### 4. MT Se reproduce a tono original
+  #### 5. SYNC Se reproduce cuadra a la musica de los decks
+  #### 6. GAIN y CUE
+  #### 7. Grabacion
+
+
+
+
+
+
+
   
