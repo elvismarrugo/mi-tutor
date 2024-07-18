@@ -142,7 +142,7 @@ sidebar_position: 0
   #### 6. GAIN y CUE
   #### 7. Grabacion
 
-
+https://www.youtube.com/watch?v=QHjT42DEnrI
 
 
 
