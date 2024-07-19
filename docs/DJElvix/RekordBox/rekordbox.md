@@ -217,6 +217,30 @@ sidebar_position: 0
               2. Saltos de 5 de E puede mezclar con F y con Eb o Dbm con Dm y Cm
               3. G,C,F,Am,B,Db
               4. Ordenar por Tonalidad
-        
-
-      ```      
+      ```
+#### **22. Mezcla al vuelo y al corte** 
+      ```jsx
+       1. Mezcla al vuelo
+          1. Hacer mezcla usando SYNC y se le da play cuando se junten
+          2. Hacer la mezcla antes y se sube el volumen al golpe
+       2. Mezcla al corte: cambio subito de una cancion por otra cambio de canal repentino
+          1. Hacer mezcla usando SYNC, se le da play cuando se junten y se baja el volumen al golpe
+          2. Hacer la mezcla antes y se cambian ambos volumens al golpe
+      ```    
+#### **23. Sesion comentada clase 22** 
+      ```jsx
+       1. Soltamos primera cancion y preparamos la 2da
+       2. Nos colocamos en la cancion y la cargamos a DECK2
+       3. Ponemos la cancion sobre el corte A (hot cue)
+       4. Adornamos con KeyShift
+       5. Lo hacemos en cambio de frase
+       6. PAD FX1(SHift + 2do Boton)
+       7. Ajustamos velocidad de cancion con TEMPO(0.8%) 
+       8. Mezcla al corte, cambiamos un canal por otro de forma repentina
+       9. Soltamos cancion y cuadramos por auriculares
+       10. y vamos metiendo la cancion
+       11. Damos potencia a los equalizadores para que coja presencia
+       12. Esperamos que se junten
+       13. Bajamos los graves
+          
+      ```    
