@@ -21,3 +21,5 @@ sidebar_position: 0
 ```jsx
     format(DATEADD(month,l.periodos,l.fecha),'dd/MM/yyyy') as FechaVencimiento
 ```
+
+## Azure
